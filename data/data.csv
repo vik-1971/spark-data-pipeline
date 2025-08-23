@@ -1,0 +1,8 @@
+id,name,department,salary,join_date
+1,Alice,Engineering,70000,2022-01-15
+2,Bob,Marketing,50000,2021-03-20
+3,Charlie,Engineering,80000,2022-06-10
+4,Diana,HR,55000,2020-11-05
+5,Eve,Marketing,52000,2023-01-08
+6,,Engineering,75000,2021-09-12
+7,Gina,Marketing,,2022-04-01
