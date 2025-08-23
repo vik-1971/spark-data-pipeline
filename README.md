@@ -1,4 +1,10 @@
 # Spark Data Pipeline Example
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-3.5-red)
+![Docker](https://img.shields.io/badge/Docker-Supported-blue)
+![PySpark](https://img.shields.io/badge/PySpark-Ready-green)
+## 📊 Ноутбук
+![Jupyter](screenshots/jupyter_screenshot.png)
 
 Простой ETL-пайплайн на PySpark с визуализацией.
 
@@ -19,9 +25,3 @@ docker run -it --rm `
   /opt/spark/bin/spark-submit `
   /work/src/etl_pipeline.py
 
-![Python](https://img.shields.io/badge/Python-3.8+-blue)
-![Spark](https://img.shields.io/badge/Apache_Spark-3.5-red)
-![Docker](https://img.shields.io/badge/Docker-yes-blue)
-
-## 📊 Ноутбук
-![Jupyter](screenshots/jupyter_screenshot.png)
