@@ -18,3 +18,10 @@ docker run -it --rm `
   apache/spark `
   /opt/spark/bin/spark-submit `
   /work/src/etl_pipeline.py
+
+![Python](https://img.shields.io/badge/Python-3.8+-blue)
+![Spark](https://img.shields.io/badge/Apache_Spark-3.5-red)
+![Docker](https://img.shields.io/badge/Docker-yes-blue)
+
+## 📊 Ноутбук
+![Jupyter](screenshots/jupyter_screenshot.png)
