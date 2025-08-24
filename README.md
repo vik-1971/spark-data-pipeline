@@ -4,7 +4,7 @@
 ![Docker](https://img.shields.io/badge/Docker-Supported-blue)
 ![PySpark](https://img.shields.io/badge/PySpark-Ready-green)
 ## 📊 Ноутбук
-![Jupyter](screenshots/jupyter_screenshot.png)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?logo=jupyter&logoColor=white)
 
 Простой ETL-пайплайн на PySpark с визуализацией.
 
